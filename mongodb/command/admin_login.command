@@ -1,0 +1,1 @@
+mongo --port 27017 -u "myUserAdmin" -p "abc123" --authenticationDatabase "admin"

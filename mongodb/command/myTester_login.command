@@ -1,0 +1,1 @@
+mongo --port 27017 -u "myTester" -p "xyz123" --authenticationDatabase "test"
